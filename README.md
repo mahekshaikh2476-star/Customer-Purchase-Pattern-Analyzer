@@ -68,7 +68,6 @@ The following data cleaning steps were performed:
 
 Shows revenue generated from different regions and identifies high-performing markets.
 
-![Revenue by Region](charts/Revenue%20by%20region.png.png)
 
 ---
 
@@ -76,7 +75,7 @@ Shows revenue generated from different regions and identifies high-performing ma
 
 Displays revenue contribution from each product category.
 
-![Revenue by Category](charts/Revenue%20by%20category.png.png)
+
 
 ---
 
@@ -84,7 +83,7 @@ Displays revenue contribution from each product category.
 
 Analyzes customer spending patterns across different age groups.
 
-![Revenue by Age Group](charts/Revenue%20by%20age%20group.png.png)
+
 
 ---
 
@@ -92,7 +91,7 @@ Analyzes customer spending patterns across different age groups.
 
 Illustrates the distribution of payment methods used by customers.
 
-![Payment Method Usage](charts/Payment%20method%20usage.png.png)
+
 
 ---
 
@@ -100,7 +99,7 @@ Illustrates the distribution of payment methods used by customers.
 
 Visualizes customer segmentation based on purchasing behavior.
 
-![Customer Segments](charts/Customer%20segments.png.png)
+
 
 ---
 
@@ -108,7 +107,7 @@ Visualizes customer segmentation based on purchasing behavior.
 
 Highlights customers with the highest purchase amounts.
 
-![Top 10 Customers](charts/Top%2010%20Customers.png.png)
+
 
 ---
 
@@ -116,7 +115,7 @@ Highlights customers with the highest purchase amounts.
 
 Shows relationships between numerical variables in the dataset.
 
-![Correlation Heatmap](charts/Corelation%20Heatmap.png.png)
+
 
 ---
 
